@@ -1,44 +1,52 @@
-Directory Structure
--------------------
-css\              - Stylesheets CSS files for the template.
-images\           - Images used in template.
-scripts\          - JavaScript used in the template.
-styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
-*.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per your downloaded variant.
+Amit Sah
+977-9815748710
+www.amitsah.com.np
+adonisamitsah@gmail.com 
+Dhapasi, Kathmandu, Nepal
 
-How to Edit the template
-------------------------
 
-1. Editing Content in template
+PROFESSIONAL SUMMARY
 
-To edit the content open the corresponding *.html files and open them
-in an editor such as VSCode or Notepad++.
-Search for the content you want to change and edit it to the text you want.
-Save the file and reopen HTML file in browser to see the changes.
+Enthusiastic administrative and financial professional with over 7 years of experience in both public and private organizations. Proven track record of managing administrative and financial functions, preparing financial reporting and statements, and leading teams to success. Experienced in working with accounting software and designing financial reports to provide accurate and timely information to management. Skilled in analyzing financial data and making recommendations for process improvements.
 
-2. Editing Styles of template
+WORK EXPERIENCE
 
-The main style is present in css\main.css which you can edit.
-You must know how to edit CSS files to do this.
-If you have purchased any of the premium version then you will also get
-SCSS source files which generates all the styles of the template.
-You can use these SCSS files to make your changes and regenerate CSS.
+Admin and Finance Officer Jul 2017 - Present
+Swadeshi Securities & Investment Pvt. Ltd. - Kathmandu
 
-3. Changing Images
+Recorded daily accounting entries, prepared quarterly reports, and reconciled bank statements.
+Compiled tax returns and e-TDS Return Filing, while maintaining balance sheets and profit and loss.
+Supervised and trained junior accountants.
+Implemented new procedures to streamline accounting processes, resulting in a 20% decrease in reporting errors.
+Added automation to Google Sheets to provide real-time investment reports, enabling management to make informed decisions.
 
-You can change images inside the images\ folder.
-Make sure to name the file same as the original file.
-If you wish to change the name of the image file then you must
-also make corresponding change in the HTML file which refer to that image.
+Account Assistant Jun 2015 - Jun 2017
+Shree Krishna Securities Ltd. - Kathmandu, Nepal
 
-How to use the template
------------------------
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
+Generated client billings and reviewed details provided by managers.
+Managed posting of purchase, sales, payment, receipt collection, and journal voucher.
+Maintained cash transactions and reconciled sales and purchase accounts.
+Created an outstanding list of debtors and conducted payment follow-up, resulting in an 18% increase in collections.
+
+EDUCATION
+
+Bachelor In Business Administration May 2015 - Jan 2018 ICFAI University - Tripura, India
+Graduated with 7.62 CGPA out of 10.
+
+SKILLS
+
+Knowledge of General Accounting Practices.
+Ability to Analyze Data.
+Critical Thinking Skills.
+Time Management Skills.
+MS-Office Skills.
+
+REFERENCES
+
+Dinesh Aryal - CEO
+Shree Krishna Securities Ltd. - Kathmandu, Nepal
+Contact No.: +977-9851057896
+Email: dineshasks@gmail.com
+
+
 
