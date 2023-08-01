@@ -14,10 +14,12 @@ Enthusiastic administrative and financial professional with over 7 years of expe
 WORK EXPERIENCE
 Accounts Officer Mar 2023 - Present
 Jagdamba Steels Ltd. - Corporate Office, Gairidhara, Kathmandu, Nepal
-* Manage and maintain accurate financial records by entering and tracking expenses using accounting software.
+
+
 * Conduct bank reconciliations and prepare weekly reports to update management on financial status.
-* Verify all Letter of Credit (LC) transactions through the bank and ensure accurate recording of corresponding journal entries.
-* Collaborate with other team members to analyze financial data and develop strategies for improving financial performance.
+* Verify all Letter of Credit (LC) and Nepal Rastra Bank (NRB) margin transactions through the bank and ensure accurate recording of corresponding journal entries.
+* Reconcile loan accounts and ensure accurate recording of loan transactions.
+* Communicate with banks to obtain Statements, Credit Liability Report (CLR), LC reports, NRB reports, and any other relevant reports as necessary.
 
 
 Admin and Finance Officer Jul 2017 - Mar 2023
@@ -53,16 +55,3 @@ SKILLS
 * Critical Thinking Skills.
 * Time Management Skills.
 * MS-Office Skills.
-
-
-REFERENCES
-
-
-1. Dinesh Aryal - CEO
-Shree Krishna Securities Ltd. - Kathmandu, Nepal
-Email: dineshasks@yahoo.com
-
-
-2. Nand Kishor Sharma - Chairman
-Swadeshi Securities & Investment Pvt. Ltd. - Kathmandu, Nepal
-Email: nk.sharma.nepal@gmail.com
